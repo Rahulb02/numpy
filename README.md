@@ -39,6 +39,10 @@ It provides:
 - tools for integrating C/C++ and Fortran code
 - useful linear algebra, Fourier transform, and random number capabilities
 
+Added Features and bug corrections
+
+
+
 Testing:
 
 NumPy requires `pytest` and `hypothesis`.  Tests can then be run after installation with:
